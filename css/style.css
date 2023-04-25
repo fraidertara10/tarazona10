@@ -109,6 +109,24 @@ footer {
   height: 25px;
 
 }
-
-
+.usuario{
+    display:block;
+    justify-content: center;
+    font-size: 25px;
+    font-family: cursive;
+}
+.container{
+    margin-top: 10%;
+}
+.usuario input{
+    border: solid 3px rgb(0, 0, 0);
+    border-radius: 5px;
+}
+.boton button{
+    border: solid 1px rgb(126, 101, 101);
+    background: #91878a;
+    border-radius: 5px;
+    width: 100px;
+ 
+}
 
